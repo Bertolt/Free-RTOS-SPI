@@ -7,7 +7,7 @@ Applicaton in C of Free RTOS using ADC+SPI+USART interrupt, , Messages Queues, L
 
 * The application was design for ARM Cortex-M3 Processor using STM32 primer development board.
 
-* [API reference] (https://www.freertos.org/a00106.html) for FreeRTOS
+* [API reference ](https://www.freertos.org/a00106.html) for FreeRTOS
 
 
 
@@ -17,7 +17,7 @@ Applicaton in C of Free RTOS using ADC+SPI+USART interrupt, , Messages Queues, L
 
 * [FreeRTOS ](http://www.dropwizard.io/1.0.2/docs/)kernel  real time operating system is a solution fro microcontrollers and microprocessors.
 
-* [RIDE7 ] (http://www.raisonance.com/ride7.html) IDE and flashing tool 
+* [RIDE7 ](http://www.raisonance.com/ride7.html) IDE and flashing tool 
 
 
 ## Authors
